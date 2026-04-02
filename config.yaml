@@ -1,0 +1,14 @@
+pdf:
+  file_path: "AG300DYNA27C Certificato del 02-02-2026 1.pdf"
+  page_number: 2
+  dpi: 300
+  poppler_path: "C:/poppler-25.12.0/Library/bin"
+
+processing:
+  min_table_area: 250000
+  adaptive_block_size: 15
+  adaptive_C: 10
+
+output:
+  save_dir: "output"
+  debug: true
